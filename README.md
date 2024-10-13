@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project03-JuicyBreakout
 
 # Project Name
@@ -13,3 +14,14 @@ Which features you included
 ## Future Development
 
 ## Created by
+=======
+# Exercise-3d-Shaders
+
+## Name
+
+Daniyaal Hussain
+
+## Username
+
+Lutumna
+>>>>>>> 3c1a0320291109caec48db09032838d7279612a8
