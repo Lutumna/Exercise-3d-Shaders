@@ -150,7 +150,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 77c26923f27b8034199bbb3b200060bd, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b81a9af0c058f27478a4ee36f646bbdd, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.488
   m_Pitch: 1
@@ -278,7 +278,7 @@ RectTransform:
   m_GameObject: {fileID: 407041351}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.20465, y: 0.20465, z: 0.20465}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 418083462}
@@ -310,8 +310,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: BREAK OUT
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
-  m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1bdb4002a47ca5442a8698965772d8eb, type: 2}
+  m_sharedMaterial: {fileID: 3923365159865689173, guid: 1bdb4002a47ca5442a8698965772d8eb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -751,7 +751,7 @@ RectTransform:
   m_GameObject: {fileID: 1444423780}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.399, y: 0.399, z: 0.399}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1827749649}
@@ -785,8 +785,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
-  m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1bdb4002a47ca5442a8698965772d8eb, type: 2}
+  m_sharedMaterial: {fileID: 3923365159865689173, guid: 1bdb4002a47ca5442a8698965772d8eb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
